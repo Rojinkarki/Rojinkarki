@@ -26,7 +26,7 @@
 
 ### 👨‍💻 About Me
 
-Cybersecurity student at the **University of Wisconsin-Green Bay**, with hands-on IT operations experience in Active Directory administration, network troubleshooting, and technical support.
+Cybersecurity student at the **De Anza College**, with hands-on IT operations experience in Active Directory administration, network troubleshooting, and technical support.
 
 - 🔐 Implemented and managed **Active Directory across multiple bank branches nationwide**
 - 🛠️ 3+ years of **IT support experience** — systems, networks, and end-user troubleshooting
@@ -37,9 +37,11 @@ Cybersecurity student at the **University of Wisconsin-Green Bay**, with hands-o
 ---
 
 ### 🎓 Education
+**Bachelor's Degree, Cybersecurity**
+De Anza college · `Sep 2026 – Dec 2029 (Expected)`
 
 **Bachelor's Degree, Cybersecurity**
-University of Wisconsin-Green Bay · `Aug 2025 – Dec 2029 (Expected)`
+University of Wisconsin-Green Bay · `Aug 2025 – May 2026`
 
 **High School Diploma, Computer Science**
 East-Pole International College · `Jun 2022 – Jul 2024`
