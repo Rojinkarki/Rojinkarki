@@ -6,116 +6,114 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Cybersecurity+Student+%40+UWGB;Active+Directory+%26+IT+Support;Network+Troubleshooting+%26+System+Administration;Open+to+Internship+Opportunities" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Computer+Science+%40+De+Anza+College;Cybersecurity+%26+Network+Security+Enthusiast;Active+Directory+%26+IT+Support;Open+to+Internship+Opportunities" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rojinkarki&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-success?style=flat" alt="Open to internships" />
-  <img src="https://img.shields.io/badge/Location-Green%20Bay%2C%20WI-blue?style=flat" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-San%20Francisco%20Bay%20Area%2C%20CA-blue?style=flat" alt="Location" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rojinkarki" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:karkr25@uwgb.edu"><img src="https://img.shields.io/badge/University%20Email-UWGB-002F5F?style=for-the-badge&logo=maildotru&logoColor=white" alt="University Email" /></a>
-  <a href="https://www.topcoder.com/members/54311" target="_blank"><img src="https://img.shields.io/badge/Topcoder-29A8E0?style=for-the-badge&logo=topcoder&logoColor=white" alt="Topcoder" /></a>
+  <a href="https://linkedin.com/in/rojinkarki/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:karkirojin999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-Cybersecurity student at the **De Anza College**, with hands-on IT operations experience in Active Directory administration, network troubleshooting, and technical support.
+Computer Science student with an **emphasis in Cybersecurity**, currently at **De Anza College**. Hands-on experience deploying and securing enterprise networks, including Active Directory administration across **250+ branches** and **1,600+ users**.
 
-- 🔐 Implemented and managed **Active Directory across multiple bank branches nationwide**
-- 🛠️ 3+ years of **IT support experience** — systems, networks, and end-user troubleshooting
-- 🌐 Currently deepening skills in **Network Security** and **Cloud Security**
-- 🇳🇵 Originally from Nepal, currently based in Green Bay, Wisconsin
+- 🔐 Deployed and managed **Active Directory across 250+ bank branches nationwide**
+- 🛠️ Experience across IT support, network security, and system administration roles
+- 🌱 Currently working toward the **Google Cybersecurity Certification**
+- 🇳🇵 Originally from Nepal, currently based in the San Francisco Bay Area, CA
 - 🎯 Actively seeking **internship opportunities** in cybersecurity and IT
 
 ---
 
 ### 🎓 Education
-**Bachelor's Degree, Cybersecurity**
-De Anza college · `Sep 2026 – Dec 2029 (Expected)`
 
-**Bachelor's Degree, Cybersecurity**
-University of Wisconsin-Green Bay · `Aug 2025 – May 2026`
+**Computer Science Major, Emphasis in Cybersecurity**
+De Anza College, Cupertino, California · `Fall 2026 – Expected August 2029`
 
-**High School Diploma, Computer Science**
-East-Pole International College · `Jun 2022 – Jul 2024`
-
----
-
-### 📜 Certifications
-
-- Computer Hardware and Network
-- Computer Diploma
+**Computer Science Major** · GPA: 3.9 · Highest Honors (Spring 2026)
+University of Wisconsin–Green Bay (UWGB), Green Bay, Wisconsin · `Sep 2025 – May 2026`
 
 ---
 
 ### 💼 Experience
 
+**IT Technician** — Comtech Group Company Pvt. Ltd.
+`Aug 2023 – Jul 2025 · Kathmandu, Nepal`
+- Installed, configured, and maintained networks and systems as part of a 25-person IT team, ensuring high availability and minimal downtime across multiple departments
+- Delivered on-site and remote technical support to staff and clients; collaborated with the IT team to design and deploy network security protocols, improving response time and reducing vulnerability exposure
+
 **System Administrator Intern** — Agriculture Development Bank
-`Dec 2024 – Jun 2025 · Kathmandu District`
-- Implemented and managed Active Directory across multiple branches nationwide
-- Created and maintained user accounts, permissions, and network resources
-- Improved system efficiency and security through centralized administration
-- Conducted system updates and backups to protect critical banking data
+`Feb 2023 – Jul 2023 · Kathmandu, Nepal`
+- Deployed and managed Active Directory across 250+ branches nationwide (on-site and remote), creating and maintaining user accounts, group policies, and network permissions for 1,600+ staff members
+- Streamlined bank-wide IT operations through scheduled system updates and backup protocols, reducing manual administration time and improving system reliability and disaster recovery readiness
 
-**Information Technology Support Technician** — Comtech Group Company Pvt. Ltd.
-`Jun 2022 – Jul 2025 · Kathmandu`
-- Provided IT support across all areas of responsibility within a 10-member IT team
-- Installed, configured, and maintained computer systems and network infrastructure
-- Diagnosed and resolved hardware and software issues to minimize downtime
-- Delivered on-site and remote technical support to staff and clients
-- Performed system updates and regular data backups to maintain data integrity
-- Collaborated with team members to implement basic network security practices
-
-<details>
-<summary><b>Counselor</b> — Destiny Educational Consultancy (Aug 2024 – Mar 2025)</summary>
-<br>
-
-- Guided students in selecting suitable academic programs and universities
-- Assisted with admissions documentation and visa application processes
-- Provided clear guidance to students and parents through counseling sessions
-- Supported informed academic and career decision-making
-</details>
+**IT Support Intern** — Naya Patrika & Baahrakhari Media Organization
+`Jul 2022 – Nov 2022 · Kathmandu, Nepal`
+- Deployed and managed Kaspersky endpoint security across all devices for two media organizations, ensuring network-wide protection and security compliance while diagnosing and resolving hardware and software issues
+- Monitored and maintained data servers, configured firewalls, and managed network infrastructure to ensure uninterrupted editorial operations across both organizations
 
 ---
 
-### 🔭 What I'm Up To
+### 🚀 Featured Projects
 
-- 🔭 Currently building [**py-netsec-toolkit**](https://github.com/Rojinkarki/py-netsec-toolkit) — a Python-based network security toolkit
-- 🌱 Currently learning **Networking, Network Security & Cloud Security**
-- 💬 Ask me about **Networking, Hardware, Network Security**
-- 📫 Reach me at **karkr25@uwgb.edu**
-- ⚡ Fun fact: Student of the Year for **4 consecutive years**
+#### 🔐 [Network Security Toolkit](https://github.com/Rojinkarki) — *Python*
+A modular Python-based cybersecurity toolkit for network analysis, security auditing, and automation via an interactive CLI.
+- Port scanner, service banner grabber, HTTP security header analyzer, and multi-hash password health auditor
+- Log file analyzer for suspicious login detection
+- Interactive CLI with automated unit testing using `pytest`
+
+#### 🌐 Campus Network Design — Shree Yasam Secondary College — *Cisco Packet Tracer*
+Designed a scalable two-campus enterprise network for 8+ departments.
+- Full VLAN segmentation and inter-VLAN routing via Layer 3 switches, with RIPv2 dynamic routing between campuses
+- Hierarchical network design and switch security configurations, plus static routing and DHCP automation, for a secure, production-ready topology
 
 ---
 
-### 🧰 Core Skills
+### 🏆 Awards
 
+- 🏅 Technical Excellence Award (2024) — recognized for outstanding technical performance in computer systems and networking
+- 🏅 Best Student of the Year (2022–2024) — awarded full scholarship for two academic years
+- 🏅 Writing and Speech Excellence Award (2023) — recognized for outstanding academic writing and public speaking
+
+---
+
+### 🧰 Skills
+
+**Programming Languages**
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-<img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-### ☁️ Currently Exploring
-
+**Security & Networking**
 <p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+<img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge" alt="pfSense" />
+<img src="https://img.shields.io/badge/Kerio-212121?style=for-the-badge" alt="Kerio" />
+<img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory" />
+<img src="https://img.shields.io/badge/Firewalls-C0392B?style=for-the-badge" alt="Firewalls" />
+<img src="https://img.shields.io/badge/VPN-4CAF50?style=for-the-badge" alt="VPN" />
+</p>
+
+**Systems & Tools**
+<p>
+<img src="https://img.shields.io/badge/Windows%207–11-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
 </p>
 
 ---
@@ -144,9 +142,8 @@ East-Pole International College · `Jun 2022 – Jul 2024`
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/rojinkarki" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:karkr25@uwgb.edu"><img src="https://img.shields.io/badge/University%20Email-UWGB-002F5F?style=for-the-badge&logo=maildotru&logoColor=white" alt="University Email" /></a>
-  <a href="https://www.topcoder.com/members/54311" target="_blank"><img src="https://img.shields.io/badge/Topcoder-29A8E0?style=for-the-badge&logo=topcoder&logoColor=white" alt="Topcoder" /></a>
+  <a href="https://linkedin.com/in/rojinkarki/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:karkirojin999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p align="center"><i>Thanks for visiting — feel free to reach out about internships, collaborations, or all things network & cloud security!</i></p>
+<p align="center"><i>Thanks for visiting — feel free to reach out about internships, collaborations, or all things network & cybersecurity!</i></p>
