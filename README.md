@@ -481,7 +481,7 @@ Many of these experiments are incorporated into larger projects such as AEGIS En
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=rojinkarki&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=rojinkarki&theme=tokyonight&hide_border=true&timezone=America%2FLos_Angeles"
     alt="Rojin Karki GitHub Streak"
   />
 </p>
